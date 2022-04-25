@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd762de7588417b44b7405d615abdc51, type: 3}
+  m_Name: GearboxRecipe
+  m_EditorClassIdentifier: 
+  ProcessingTime: 25
+  InputItems:
+  - {fileID: 11400000, guid: a3b2bb2fe13d54e489a871ea70598611, type: 2}
+  - {fileID: 11400000, guid: 898d856ff67c33d4ca96a34b9c567b75, type: 2}
+  - {fileID: 11400000, guid: c3dc8a971b7b90a4e8c175447d879330, type: 2}
+  InputItemCount: 05000000080000000c000000
+  OutputItem: {fileID: 11400000, guid: 0f53bb31bc7b2364db97d749f364cc2e, type: 2}
+  OutputItemCount: 1

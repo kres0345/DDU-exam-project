@@ -1,0 +1,19 @@
+{
+    "name": "UI",
+    "rootNamespace": "FactoryGame.UI",
+    "references": [
+        "GUID:26f7411784e00c243a7bcb52884e5580",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:e6035cc68aad8a648a9e73953bc02008",
+        "GUID:60eaa3203e4f5284d833b97b6d1f45da"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

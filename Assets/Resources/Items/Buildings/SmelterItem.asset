@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8220986282fb2b8498a6d31ce46ba0ae, type: 3}
+  m_Name: SmelterItem
+  m_EditorClassIdentifier: 
+  Name: Smelter
+  Icon: {fileID: -202207018211410876, guid: fbcef190ce7453449a00d01048479bf1, type: 3}
+  Description: Smelter ores
+  PlacementPrefab: {fileID: 1985767092523186410, guid: 271dde810763cba4d9f1189c8d2b4666, type: 3}

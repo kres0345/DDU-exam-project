@@ -1,0 +1,18 @@
+{
+    "name": "Placements",
+    "rootNamespace": "FactoryGame.Placements",
+    "references": [
+        "GUID:26f7411784e00c243a7bcb52884e5580",
+        "GUID:60eaa3203e4f5284d833b97b6d1f45da",
+        "GUID:62fa474b49e04b64c994ed1d15627ecc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

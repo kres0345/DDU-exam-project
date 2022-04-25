@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8220986282fb2b8498a6d31ce46ba0ae, type: 3}
+  m_Name: ConstructorItem
+  m_EditorClassIdentifier: 
+  Name: Contructor
+  Icon: {fileID: -4675667890518262290, guid: 0d1d70f5f57af0e42bfcc2e406e0b946, type: 3}
+  Description: Den bygger simple ting
+  PlacementPrefab: {fileID: 1985767092523186410, guid: 6e2e9cd92c42af54eab1c27ca42ac872, type: 3}

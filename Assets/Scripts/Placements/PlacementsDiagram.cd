@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FactoryGame.Placements.CornerTubePlacement" Collapsed="true">
+    <Position X="11.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Placements\CornerTubePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.GridCalculation" Collapsed="true">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Placements\GridCalculation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.IntersectionTubePlacement" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Placements\IntersectionTubePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.InValvePlacement" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgEAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABAAgA=</HashCode>
+      <FileName>Assets\Scripts\Placements\InValvePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.Machine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAEAAAAAEAAIQACgAAIQEAAAACAAAAAAAAAAARAEA=</HashCode>
+      <FileName>Assets\Scripts\Placements\Machine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.201" Collapsed="true" />
+  </Class>
+  <Class Name="FactoryGame.Placements.MergerTubePlacement" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Placements\MergerTubePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.OutValvePlacement" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgEAAABAiAAAAAAAAAAAAAAgCAAACAAAAIAAABAAAI=</HashCode>
+      <FileName>Assets\Scripts\Placements\OutValvePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.Placement" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DACAkBAAAQAQACBAAAAAQYAAEAAAgAACAEAAAgABAEQ=</HashCode>
+      <FileName>Assets\Scripts\Placements\Placement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.PlacementController" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAAIAgAAAAAAEgAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Placements\PlacementController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Miner" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQJAAAAACEAEIAAIAAAQAAAAAAACAAAAAAAAAAQAIA=</HashCode>
+      <FileName>Assets\Scripts\Placements\Miner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.SplitterTubePlacement" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Placements\SplitterTubePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.StraightTubePlacement" Collapsed="true">
+    <Position X="11.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Placements\StraightTubePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.TubePlacementV2" Collapsed="true">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwEQBAAACCIAIAAAgAgIAkQAGAAAAAgAAgIgABABEA=</HashCode>
+      <FileName>Assets\Scripts\Placements\TubePlacementV2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryGame.Placements.ValveBasePlacement" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAAAAAAAAAAACAAAAQgAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Placements\ValveBasePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FactoryGame.Placements.Orientation" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>Assets\Scripts\Placements\Placement.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,16 @@
+{
+    "name": "SaveGame",
+    "rootNamespace": "FactoryGame.SaveGame",
+    "references": [
+        "GUID:d9167ed8c95b0684f9d1a515c1584265"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

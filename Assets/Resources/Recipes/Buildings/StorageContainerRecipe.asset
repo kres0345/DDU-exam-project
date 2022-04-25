@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd762de7588417b44b7405d615abdc51, type: 3}
+  m_Name: StorageContainerRecipe
+  m_EditorClassIdentifier: 
+  ProcessingTime: 20
+  InputItems:
+  - {fileID: 11400000, guid: d1cb42c0fdf00b5448df3af900936911, type: 2}
+  - {fileID: 11400000, guid: a4ca3b8f87122f94688a643e834dce58, type: 2}
+  InputItemCount: 040000000a000000
+  OutputItem: {fileID: 11400000, guid: 1dfb71b88b9dcbe459055ab267452c51, type: 2}
+  OutputItemCount: 1

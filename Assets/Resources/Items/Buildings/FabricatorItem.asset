@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8220986282fb2b8498a6d31ce46ba0ae, type: 3}
+  m_Name: FabricatorItem
+  m_EditorClassIdentifier: 
+  Name: Fabricator
+  Icon: {fileID: 5216222801003836156, guid: 7f05ac35fe2d6504abd8892b4f8163db, type: 3}
+  Description: Den bygger meget komplicerede ting
+  PlacementPrefab: {fileID: 1985767092523186410, guid: 6da2ae1fa30b9274f9698e957e9bfc00, type: 3}
